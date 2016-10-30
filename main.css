@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+  color: limegreen;
+  text-align: center;
+  font-size: 25px;
+  font-family: arial;
+  border: solid 4px red;
+  padding: 20px;
+}
